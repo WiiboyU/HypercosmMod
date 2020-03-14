@@ -1,0 +1,4 @@
+author = Wiiboi, Creepslime, Xenos, Moon
+version = 0.5
+displayName = Hypercosm
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
